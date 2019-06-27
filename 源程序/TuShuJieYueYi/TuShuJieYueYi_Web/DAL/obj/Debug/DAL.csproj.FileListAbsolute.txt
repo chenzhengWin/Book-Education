@@ -1,0 +1,16 @@
+G:\大三下\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\bin\Debug\DAL.dll
+G:\大三下\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\bin\Debug\DAL.pdb
+G:\大三下\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\bin\Debug\Model.dll
+G:\大三下\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\bin\Debug\Model.pdb
+G:\大三下\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\大三下\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\obj\Debug\DAL.dll
+G:\大三下\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\obj\Debug\DAL.pdb
+E:\大学课程设计\66666666\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\bin\Debug\DAL.dll
+E:\大学课程设计\66666666\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\bin\Debug\DAL.pdb
+E:\大学课程设计\66666666\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\bin\Debug\Model.dll
+E:\大学课程设计\66666666\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\bin\Debug\Model.pdb
+E:\大学课程设计\66666666\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\大学课程设计\66666666\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\大学课程设计\66666666\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\大学课程设计\66666666\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\obj\Debug\DAL.dll
+E:\大学课程设计\66666666\课程设计\TuShuJieYueYi\TuShuJieYueYi_Web\DAL\obj\Debug\DAL.pdb
