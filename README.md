@@ -1,5 +1,5 @@
 # Book-Education
-高校图书教育系统-Library Education System in Colleges
+高校图书教育互动平台-Interactive Platform of Library Education in Colleges
 
 这是在校所做的一个项目。主要分为前台阅览模块和后台管理模块。
 
