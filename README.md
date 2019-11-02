@@ -3,8 +3,7 @@
 
 这是在校所做的一个项目。主要分为前台阅览模块和后台管理模块。
 
-前台布局主要使用了Bootstrap框架、HTML5、以及CSS3的新特性。
-使用了Ajax异步获取数据，DIV+DOM技术，使用Javascript的Date方法格式化数据库获取的日期；
+前台布局主要使用了Bootstrap框架、HTML5、CSS3，使用了Ajax异步获取数据，结合DIV+DOM技术。
 
 后台使用了ASP.NET技术、SQL Server数据库技术。
 
